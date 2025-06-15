@@ -1,0 +1,22 @@
+{
+  "name": "medicus-patient_management_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && cd frontend && npm install && npm install @vitejs/plugin-react --save-dev && npm run build",
+    "start": "npm start --prefix backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HimanshuJangid2147/Medicus-Patient_Management_System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HimanshuJangid2147/Medicus-Patient_Management_System/issues"
+  },
+  "homepage": "https://github.com/HimanshuJangid2147/Medicus-Patient_Management_System#readme"
+}
